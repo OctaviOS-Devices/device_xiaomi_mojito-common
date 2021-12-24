@@ -48,3 +48,6 @@ ro.hwui.text_large_cache_height=1024
 
 # Maintainer
 ro.octavi.maintainer="Tejas Kamat"
+
+# OTA
+ro.octavi.display.pid=1655580
